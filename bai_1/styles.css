@@ -1,0 +1,24 @@
+body {
+  background-color: lightblue;
+  color: #1e1f79;
+}
+
+.text-center {
+  text-align: center;
+}
+
+hr {
+  color: red;
+  width: 225px;
+  border: solid 1px red;
+  margin: auto;
+}
+
+.my-20px {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.source {
+  text-align: right;
+}
